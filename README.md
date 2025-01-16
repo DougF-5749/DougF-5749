@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Doug 👋
 
-I'm a former teacher and education leader with a passion for STEM and a proven ability to communicate complex ideas effectively. After years of honing my skills in logical problem-solving, project management, and collaborative teamwork, I transitioned into the world of **full-stack development**. With a strong foundation in **agile practices ** and **user-focused design**, I am now leveraging my experience and technical expertise to build impactful, scalable software solutions.
+I'm a former teacher and education leader with a passion for STEM and a proven ability to communicate complex ideas effectively. After years of honing my skills in logical problem-solving, project management, and collaborative teamwork, I transitioned into the world of **full-stack development**. With a strong foundation in **agile practices** and **user-focused design**, I am now leveraging my experience and technical expertise to build impactful, scalable software solutions.
 
 ## 🛠️ Technical SKills 🛠️ 
 
@@ -55,6 +55,12 @@ I'm a former teacher and education leader with a passion for STEM and a proven a
 **Tech Stack:** MongoDB, Express.js, React, Node.js
 
 - Built a medieval-themed social platform replicating Facebook with features like alliances, posts, comments, and likes.
+
+## 📫 Let's connect 📫
+
+**LinkedIn:** [linkedin.com/in/doug-fairfield](linkedin.com/in/doug-fairfield)
+
+**GitHub:** [github.com/DougF-5749](github.com/DougF-5749)
 
 <!--
 **DougF-5749/DougF-5749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
