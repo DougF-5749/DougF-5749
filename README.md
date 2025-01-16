@@ -16,9 +16,7 @@ I'm a former teacher and education leader with a passion for STEM and a proven a
 
 ### Testing and QA Tools
 
-- Pytest
-- Jest
-- Vitest
+- Pytest, Jest, Vitest
 
 ### Tools and Practices
 
