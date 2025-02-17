@@ -21,6 +21,15 @@ I'm a former teacher and education leader with a passion for STEM and a proven a
 - FastAPI,
 - Flask
 
+### Data and Analytics
+
+ - Jupyter Notebook
+ - pandas
+ - NumPy
+ <!-- - seaborn
+ - matplotlib
+ --->
+
 ### Testing and QA Tools
 
 - Pytest
