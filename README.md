@@ -39,21 +39,34 @@ I'm a former teacher and education leader with a passion for STEM and a proven a
 
 ## 🚀 Projects 🚀
 
-### [FitHub:](https://github.com/DougF-5749/exercise_habit_tracker) _(Solo Project - ongoing)_
+### [Rugby Union Internationals: Data Analysis:](https://github.com/DougF-5749/rugby_union_internationals) _(Solo Project - **ongoing**)_
 
-**Tech Stack:** Python, FastAPI, MySQL
+**Tech Stack:** Python, Jupyter Notebook, pandas, NumPy, Matlpotlib, seaborn
 
-- Developed a backend-focused habit tracker with FastAPI and MySQL, allowing users to securely log workouts.
-- Features include user authentication and password hashing.
+ - Conducting in-depth data analysis on international rugby matches using Python and Pandas.
+ - Designing interactive Jupyter Notebooks for exploratory data analysis.
+ - Using NumPy for statistical calculations and performance metrics
+ - Cleaning, transforming, and visualising match statistics using Seaborn and Matplotlib
 
-### [Plucker:](https://github.com/benawcole/plucker_app) _(Group Project)_
+### [Plucker:](https://github.com/benawcole/plucker_app) _(Group Project - Makers Academy Bootcamp)_
 
 **Tech Stack:** Python, Flask, React, PostgreSQL
 
 - Created a bird identification app with Flask (asynchronous capabilities using Hypercorn and asyncio).
 - Integrated humorous functionality by generating random recipes for newly logged bird sightings.
 
-### [ThySpace:](https://github.com/SholaF1/acebook_project) _(Group Project)_
+### [ThySpace:](https://github.com/SholaF1/acebook_project) _(Group Project - Makers Academy Bootcamp)_
+
+**Tech Stack:** MongoDB, Express.js, React, Node.js
+
+- Built a medieval-themed social platform replicating Facebook with features like alliances, posts, comments, and likes.
+
+### [FitHub:](https://github.com/DougF-5749/exercise_habit_tracker) _(Solo Project - on hold)_
+
+**Tech Stack:** Python, FastAPI, MySQL
+
+- Developing a backend-focused habit tracker with FastAPI and MySQL, allowing users to securely log workouts.
+- Features include user authentication and password hashing.
 
 **Tech Stack:** MongoDB, Express.js, React, Node.js
 
