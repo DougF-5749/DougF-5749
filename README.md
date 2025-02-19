@@ -12,13 +12,13 @@ I'm a former teacher and education leader with a passion for STEM and a proven a
 
 ### Back-End Development
 
-- JavaScript,
-- Node.js,
-- Express.js,
-- Python,
-- SQL (PostgreSQL, MySQL),
-- NoSQL (MongoDB),
-- FastAPI,
+- JavaScript
+- Node.js
+- Express.js
+- Python
+- SQL (PostgreSQL MySQL)
+- NoSQL (MongoDB)
+- FastAPI
 - Flask
 
 ### Data and Analytics
