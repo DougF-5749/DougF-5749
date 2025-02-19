@@ -70,16 +70,14 @@ I'm a former teacher and education leader with a passion for STEM and a proven a
 
 - Built a medieval-themed social platform replicating Facebook with features like alliances, posts, comments, and likes.
 
+<!--
 ### [FitHub:](https://github.com/DougF-5749/exercise_habit_tracker) _(Solo Project - on hold)_
 
 **Tech Stack:** Python, FastAPI, MySQL
 
 - Developing a backend-focused habit tracker with FastAPI and MySQL, allowing users to securely log workouts.
 - Features include user authentication and password hashing.
-
-**Tech Stack:** MongoDB, Express.js, React, Node.js
-
-- Built a medieval-themed social platform replicating Facebook with features like alliances, posts, comments, and likes.
+-->
 
 ## 📫 Let's connect 📫
 
