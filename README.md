@@ -52,10 +52,9 @@ I'm a former teacher and education leader with a passion for STEM and a proven a
 
 **Tech Stack:** Python, Jupyter Notebook, pandas, NumPy, Matlpotlib, seaborn
 
- - Conducting in-depth data analysis on international rugby matches using Python and Pandas.
+ - Conducting data analysis on international rugby matches using Python and pandas.
  - Designing interactive Jupyter Notebooks for exploratory data analysis.
- - Using NumPy for statistical calculations and performance metrics
- - Cleaning, transforming, and visualising match statistics using Seaborn and Matplotlib
+ - Cleaning, transforming, and visualising match statistics using Seaborn and Matplotlib (ongoing)
 
 ### [Plucker:](https://github.com/benawcole/plucker_app) _(Group Project - Makers Academy Bootcamp)_
 
