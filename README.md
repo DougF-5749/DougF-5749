@@ -56,7 +56,7 @@ I'm a former teacher and education leader with a passion for STEM and a proven a
  - Designing interactive Jupyter Notebooks for exploratory data analysis.
  - Cleaning, transforming, and visualising match statistics using Seaborn and Matplotlib (ongoing)
 
-### [Plucker:](https://github.com/benawcole/plucker_app) _(Group Project - Makers Academy Bootcamp)_
+### [Plucker:](https://github.com/DougF-5749/Plucker/tree/main) _(Group Project - Makers Academy Bootcamp)_
 
 **Tech Stack:** Python, Flask, React, PostgreSQL
 
