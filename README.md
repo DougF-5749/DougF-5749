@@ -63,7 +63,7 @@ I'm a former teacher and education leader with a passion for STEM and a proven a
 - Created a bird identification app with Flask (asynchronous capabilities using Hypercorn and asyncio).
 - Integrated humorous functionality by generating random recipes for newly logged bird sightings.
 
-### [ThySpace:](https://github.com/SholaF1/acebook_project) _(Group Project - Makers Academy Bootcamp)_
+### [ThySpace:](https://github.com/DougF-5749/ThySpace) _(Group Project - Makers Academy Bootcamp)_
 
 **Tech Stack:** MongoDB, Express.js, React, Node.js
 
