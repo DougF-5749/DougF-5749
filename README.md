@@ -2,49 +2,42 @@
 
 I'm a former teacher and education leader with a passion for STEM and a proven ability to communicate complex ideas effectively. After years of honing my skills in logical problem-solving, project management, and collaborative teamwork, I transitioned into the world of **full-stack development**. With a strong foundation in **agile practices** and **user-focused design**, I am now leveraging my experience and technical expertise to build impactful, scalable software solutions.
 
-## 🛠️ Technical SKills 🛠️ 
+## 🛠️ Technical Skills and Tools 🛠️ 
 
 ### Front-End Development
-
-- React.js
-- HTML
-- CSS
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Back-End Development
-
-- JavaScript
-- Node.js
-- Express.js
-- Python
-- SQL (PostgreSQL MySQL)
-- NoSQL (MongoDB)
-- FastAPI
-- Flask
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Data and Analytics
-
- - Jupyter Notebook
- - pandas
- - NumPy
- <!-- - seaborn
- - matplotlib
- --->
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Testing and QA Tools
-
-- Pytest
-- Jest
-- Vitest
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 ### Tools and Practices
-
-- Git
-- GitHub
-- Command Line
-- VS Code
-- Agile
-- Test-Driven Development (TDD)
-- Pair Programming
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Command Line](https://img.shields.io/badge/CLI-4A90E2?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-29ABE2?style=for-the-badge&logo=agile&logoColor=white)
+![TDD](https://img.shields.io/badge/Test--Driven_Development-FF7139?style=for-the-badge&logo=testing-library&logoColor=white)
+![Pair Programming](https://img.shields.io/badge/Pair_Programming-FFD700?style=for-the-badge&logo=teams&logoColor=black)
 
 ## 🚀 Projects 🚀
 
