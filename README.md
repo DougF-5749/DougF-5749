@@ -53,8 +53,9 @@ I'm a former teacher and education leader with a passion for STEM and a proven a
 
 **Tech Stack:** Python, Flask, React, PostgreSQL
 
-- Created a bird identification app with Flask (asynchronous capabilities using Hypercorn and asyncio).
-- Integrated humorous functionality by generating random recipes for newly logged bird sightings.
+**Overview:** 
+- Created a **bird identification** app with Flask (asynchronous capabilities using Hypercorn and asyncio).
+- Integrated culinary functionality by **generating random recipes** for newly logged bird sightings.
 
 **Impactful Commits:**
 
@@ -78,19 +79,19 @@ I'm a former teacher and education leader with a passion for STEM and a proven a
  
   - A **helper function** (**_populate_bird_template_**) inserts the bird name into a predefined recipe template (e.g HERB_GLAZED_RECIPE).
  
-**2️⃣ [database design and seed data](https://github.com/DougF-5749/Plucker/commit/2fb293dec3cbeedf5518b76e56b5dcbec596a0e0)**
+**2️⃣ [Database Design and Seed Data](https://github.com/DougF-5749/Plucker/commit/2fb293dec3cbeedf5518b76e56b5dcbec596a0e0)**
 
 - This schema is designed for an application where users track bird sightings, and each sighting generates one recipe. Those recipes, in turn, are broken down into ingredients, steps, and ratings.
 
 - To facilitate quick testing, several rows are inserted into each table. This seeded data ensures that we can immediately run queries and evaluate the schema’s functionality without having to create everything manually.
 
-**3️⃣ [db_connection setup](https://github.com/DougF-5749/Plucker/commit/ba244e6308ea69737601f7cc94fb744fffc8fb51)**
+**3️⃣ [db_connection Setup](https://github.com/DougF-5749/Plucker/commit/ba244e6308ea69737601f7cc94fb744fffc8fb51)**
 - I removed psycopg2 from the requirements and replaced it with asyncpg, allowing the project to use an asynchronous database connection to manage interactions with the database.
 
 - Instead of synchronously opening and closing connections for every request, we benefit from better performance and scalability when handling multiple concurrent requests.
 
 
-**4️⃣ [Blueprint for route abstraction](https://github.com/DougF-5749/Plucker/commit/01f3e58aa1d2568e7104e99b4ab291d75a42058c)**
+**4️⃣ [Blueprint for Route Abstraction](https://github.com/DougF-5749/Plucker/commit/01f3e58aa1d2568e7104e99b4ab291d75a42058c)**
 - This commit is an exmplae of how I abstracted routes into their own routes directory instead of defining routes directly in app.py.
 
 - Each set of related endpoints is organised within a Flask Blueprint. The main app.py file then calls app.register_blueprint() to link these routes together. This avoids clutter in app.py, making it easier to maintain and locate specific endpoints.
