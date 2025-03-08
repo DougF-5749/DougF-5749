@@ -129,7 +129,7 @@ I'm a former teacher and education leader with a passion for STEM and a proven a
 
 - Front end tests with Vitest mock the fetch calls to simulate backend responses and verifying that each request is correctly formed.
 
-**3️⃣ [Email validation]()**
+**3️⃣ [Email validation](https://github.com/SholaF1/acebook_project/commit/096bd7c82a76c2bda207ae5cc8a229e4f7b8f13e)**
 - This commit enhances the sign-up flow by adding consistent email validation in both front-end and back-end layers, improving user experience and security for the registration process.
 
 - The **emailValidator.js** file checks that the email fits a Regex before user creation. If it’s invalid, the middleware responds with an error (400 Bad Request), blocking the registration flow on the backend.
