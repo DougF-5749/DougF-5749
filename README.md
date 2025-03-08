@@ -101,7 +101,43 @@ I'm a former teacher and education leader with a passion for STEM and a proven a
 
 **Tech Stack:** MongoDB, Express.js, React, Node.js
 
-- Built a medieval-themed social platform replicating Facebook with features like alliances, posts, comments, and likes.
+**Overview:** Built a medieval-themed social platform replicating Facebook with features like alliances, posts, comments, and likes.
+
+**Impactful Commits:**
+
+**1️⃣ [Password hashing](https://github.com/SholaF1/acebook_project/commit/ff219f7762c096f5c1ad1d49f3fd908cf12ad656)**
+- This commit introduces secure password handling for user accounts by adding password hashing using **bcrypt**. A pre-save hook automatically salts and hashes the user’s plaintext password before saving it to the database to ensure plaintext passwords are never stored directly.
+
+- A **.comparePassword() method** is added to the schema, allowing for safe password verification (e.g., during login).
+
+- bcrypt is added to package.json and installed (package-lock.json updates reflect this).
+
+- A .env-driven **salt-rounds configuration** is introduced to control how many times the password is hashed.
+
+- User **model tests are updated** to verify that the password is stored as a hash and can be compared with a known plaintext (e.g., "password").
+
+**2️⃣ [Comment service functions](https://github.com/SholaF1/acebook_project/commit/a4249e5784fca556f48a326c8263b3712069f752)**
+- This commit provides a centralised, test-driven approach to **create**, **update**, and **delete** comments from the front end.
+  - **createComment** – Sends a **POST request** to create a new comment on a specific post.
+  - **deleteComment** – Sends a **DELETE request** to remove a comment from a post.
+  - **updateComment** – Sends a **PUT request** to modify an existing comment on a post.
+ 
+- Each function:
+  - Retrieves the backend URL from **environment variables** (import.meta.env.VITE_BACKEND_URL).
+  - Includes an authorisation header (Bearer token) to ensure only authenticated users can create, delete, or update comments.
+  - Checks for the correct HTTP status codes (201 for creation, 202 for update/delete) and **throws an error** if the response code is unexpected.
+
+- Front end tests with Vitest mock the fetch calls to simulate backend responses and verifying that each request is correctly formed.
+
+**3️⃣ [Email validation]()**
+- This commit enhances the sign-up flow by adding consistent email validation in both front-end and back-end layers, improving user experience and security for the registration process.
+
+- The **emailValidator.js** file checks that the email fits a Regex before user creation. If it’s invalid, the middleware responds with an error (400 Bad Request), blocking the registration flow on the backend.
+  - **router.post("/", emailValidator, UsersController.createUser)** in **users.js** ensures that any POST to /users must pass email validation before creating a user
+
+- The **SignupPage.jsx** file contains a matching regex check (emailRegex) is used to display an error message (emailErrorMessage) directly to the user if the email format is invalid to provide **immediate feedback** to the user instead of waiting for the server response. A corresponding **.error-message style** is added in SignupPage.css to visually highlight any invalid input.
+
+- By validating on both front-end and back-end, the application prevents invalid email submissions early (**improving user experience**) while also **enforcing stricter data integrit**y at the server level. The user sees a helpful error message if the email is invalid, and the request won’t reach the database at all unless it meets the validation criteria.
 
 <!--
 ### [FitHub:](https://github.com/DougF-5749/exercise_habit_tracker) _(Solo Project - on hold)_
