@@ -44,9 +44,15 @@ I'm a former teacher and education leader with a passion for STEM and a proven a
 
 ## Ongoing Projects
 
-### [Solar System Travel]() _(Solo Project - **ongoing**)_
+### [Solar System Travel - SQL Project](https://github.com/DougF-5749/space_travel) _(Solo Project)_
 
-### [Rugby Union Internationals: Data Analysis:](https://github.com/DougF-5749/rugby_union_internationals) _(Solo Project - **ongoing**)_
+**Tech Stack:** Python, PostgreSQL, Astropy
+
+- Designing an SQL database to manage space travel routes and spacecraft data.
+- Implementing travel time calculations based on spacecraft speeds and changing planetary positions.
+- Using Astropy to compute real-time interplanetary distances and adjust route feasibility.
+
+### [Rugby Union Internationals: Data Analysis:](https://github.com/DougF-5749/rugby_union_internationals) _(Solo Project)_
 
 **Tech Stack:** Python, Jupyter Notebook, pandas, NumPy, Matlpotlib, seaborn
 
