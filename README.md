@@ -2,9 +2,9 @@
 
 I'm a former teacher and education leader with a passion for STEM and a proven ability to communicate complex ideas effectively. After years of honing my skills in logical problem-solving, project management, and collaborative teamwork, I transitioned into the world of **software development**. With a strong foundation in **agile practices** and **user-focused design**, I am now leveraging my experience and technical expertise to build impactful, scalable software solutions.
 
-## Table of Contents
-1. [Ongoing Projects](#ongoingprojects)
-2. [Completed Projects](#completedprojects)
+## Project Contents
+1. [Ongoing Projects](#ongoing-projects)
+2. [Completed Projects](#completed-projects)
 
 ## 🛠️ Technical Skills and Tools 🛠️ 
 
