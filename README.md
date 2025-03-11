@@ -2,6 +2,10 @@
 
 I'm a former teacher and education leader with a passion for STEM and a proven ability to communicate complex ideas effectively. After years of honing my skills in logical problem-solving, project management, and collaborative teamwork, I transitioned into the world of **software development**. With a strong foundation in **agile practices** and **user-focused design**, I am now leveraging my experience and technical expertise to build impactful, scalable software solutions.
 
+## Table of Contents
+1. [Ongoing Projects](#ongoingprojects)
+2. [Completed Projects](#completedprojects)
+
 ## 🛠️ Technical Skills and Tools 🛠️ 
 
 ### Front-End Development
@@ -38,7 +42,9 @@ I'm a former teacher and education leader with a passion for STEM and a proven a
 ![TDD](https://img.shields.io/badge/Test--Driven_Development-FF7139?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Pair Programming](https://img.shields.io/badge/Pair_Programming-FFD700?style=for-the-badge&logo=teams&logoColor=black)
 
-## 🚀 Projects 🚀
+## Ongoing Projects
+
+### [Solar System Travel]() _(Solo Project - **ongoing**)_
 
 ### [Rugby Union Internationals: Data Analysis:](https://github.com/DougF-5749/rugby_union_internationals) _(Solo Project - **ongoing**)_
 
@@ -47,6 +53,8 @@ I'm a former teacher and education leader with a passion for STEM and a proven a
  - Conducting data analysis on international rugby matches using Python and pandas.
  - Designing interactive Jupyter Notebooks for exploratory data analysis.
  - Cleaning, transforming, and visualising match statistics using Seaborn and Matplotlib (ongoing)
+
+## Completed Projects
 
 ### [Plucker:](https://github.com/DougF-5749/Plucker/tree/main) _(Group Project - Makers Academy Bootcamp)_
 
