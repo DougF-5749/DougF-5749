@@ -46,6 +46,8 @@ I'm a former teacher and education leader with a passion for STEM and a proven a
 
 ### [Solar System Travel - SQL Project](https://github.com/DougF-5749/space_travel) _(Solo Project)_
 
+⚠️ _**Just started so still in research/design phase with minimal/no code written yet**_ ⚠️
+
 **Tech Stack:** Python, PostgreSQL, Astropy
 
 - Designing an SQL database to manage space travel routes and spacecraft data.
