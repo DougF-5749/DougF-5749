@@ -56,6 +56,8 @@ I'm a former teacher and education leader with a passion for STEM and a proven a
 
 ### [Rugby Union Internationals: Data Analysis:](https://github.com/DougF-5749/rugby_union_internationals) _(Solo Project)_
 
+⚠️ _**Temporarily a private repo while dependencies updated**_ ⚠️
+
 **Tech Stack:** Python, Jupyter Notebook, pandas, NumPy, Matlpotlib, seaborn
 
  - Conducting data analysis on international rugby matches using Python and pandas.
